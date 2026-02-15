@@ -1,0 +1,9 @@
+django>=4.2,<5.0
+djangorestframework
+markdown
+django-filter
+psycopg2-binary
+django-cors-headers
+djangorestframework-simplejwt
+social-auth-app-django
+requests
